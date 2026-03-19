@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">⚡ Olá, sou o Carlos Eduardo⚡</h1>
 
-<!--
-**carlosEduardp/carlosEduardp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=26&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+no+IFSP;Dev+em+formação;Foco+em+tecnologia+e+inovação;Construindo+o+futuro+🚀">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISITANTES&color=00ff00&style=flat"/>
+</p>
+
+---
+
+```bash
+
+...
+
+✔ Nome: Carlos Eduardo
+✔ Curso: Análise e Desenvolvimento de Sistemas
+✔ Instituição: IFSP - Bragança Paulista
+✔ Status: Online 🟢
+
+> loading skills...
+████████████████████░░░ 80%
+
+> missão:
+Se tornar um desenvolvedor completo e criar projetos que impactam o mundo 🚀
